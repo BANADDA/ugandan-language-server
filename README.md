@@ -21,7 +21,7 @@ A Python-based API server for translating text from English to East African lang
 
 1. Clone this repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/BANADDA/ugandan-language-server
    cd rutooro-server
    ```
 
